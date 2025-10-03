@@ -15,7 +15,7 @@ I enjoy solving challenging engineering problems, tinkering with new technologie
 
 ## 🛠️ Tools & Technologies  
 
-- **Languages:** Golang, Python, Ruby, Java, C/C++, JavaScript/TypeScript, SQL, Shell/Bash  
+- **Languages:** , , , , , JavaScript/TypeScript, SQL, Shell/Bash  
 - **Backend & Frameworks:** Go-Chi, FastAPI, Node.js/Express, Flask, React  
 - **Databases:** MySQL, PostgreSQL, SQLite  
 - **Cloud & Systems:** AWS (S3, IoT Core, EC2, RDS), Docker, Kafka, CUDA  
