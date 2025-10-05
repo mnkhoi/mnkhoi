@@ -4,18 +4,9 @@ Welcome to my GitHub! I’m a Computer Science & Mathematics student at the **Un
 
 I enjoy solving challenging engineering problems, tinkering with new technologies, and building systems that scale.  
 
----
-
-## 📊 Contributions  
-
-![Khoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnkhoi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnkhoi&layout=compact&theme=tokyonight)  
-
----
-
 ## 🛠️ Tools & Technologies  
 
-- **Languages:** , , , , , JavaScript/TypeScript, SQL, Shell/Bash  
+- **Languages:** Golang, Ruby, C/C++, Python, JavaScript/TypeScript, SQL, Shell/Bash  
 - **Backend & Frameworks:** Go-Chi, FastAPI, Node.js/Express, Flask, React  
 - **Databases:** MySQL, PostgreSQL, SQLite  
 - **Cloud & Systems:** AWS (S3, IoT Core, EC2, RDS), Docker, Kafka, CUDA  
