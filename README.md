@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Khoi Nguyen  
+# Hi, I'm Khoi Nguyen  
 
 Welcome to my GitHub! I’m a Computer Science & Mathematics student at the **University of Toronto** with a strong interest in **backend development**, **distributed computing**, **computer languages**, and **operating systems**.  
 
 I enjoy solving challenging engineering problems, tinkering with new technologies, and building systems that scale.  
 
-## 🛠️ Tools & Technologies  
+## Tools & Technologies  
 
 - **Languages:** Golang, Ruby, C/C++, Python, JavaScript/TypeScript, SQL, Shell/Bash  
 - **Backend & Frameworks:** Go-Chi, FastAPI, Node.js/Express, Flask, React  
@@ -14,7 +14,7 @@ I enjoy solving challenging engineering problems, tinkering with new technologie
 
 ---
 
-## 🚀 Interests  
+## Interests  
 
 - **Backend Development** — designing reliable, maintainable, and scalable systems.  
 - **Distributed Computing** — building event-driven and cloud-native systems.  
@@ -23,7 +23,7 @@ I enjoy solving challenging engineering problems, tinkering with new technologie
 
 ---
 
-## 🌱 Currently  
+## Currently  
 
 - Expanding my knowledge of **distributed systems and databases**.  
 - Contributing to projects where I can apply **backend and systems engineering** skills.  
@@ -31,4 +31,4 @@ I enjoy solving challenging engineering problems, tinkering with new technologie
 
 ---
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mnkhoi) or check out my projects here on GitHub!  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mnkhoi) or check out my projects here on GitHub!  
